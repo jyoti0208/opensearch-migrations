@@ -14,3 +14,9 @@ A containerized end-to-end solution (including a source and target cluster as we
 **Note**: These features are still under development and subject to change
 
 Detailed instructions for deploying the CDK and setting up its prerequisites can be found in the opensearch-service-migration [README](./cdk/opensearch-service-migration/README.md).
+
+### Deploying Migration solution to OCI
+
+**Note**: These features are still under development and subject to change
+
+Detailed instructions for deploying Opensearch-Migration on OCI cloud can be found in the opensearch-service-migration [README](./terraform/OCI_Deployment.md).

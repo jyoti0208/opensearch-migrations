@@ -34,6 +34,10 @@ A containerized end-to-end solution can be deployed locally using the
 
 Refer to [AWS Deployment](deployment/README.md) to deploy this solution to AWS.
 
+### OCI deployment
+
+Refer to [OCI Deployment](deployment/README.md) to deploy this solution to OCI.
+
 ## Developer contributions
 
 ### Pre-commit hooks
